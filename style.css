@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-size: cover;
+}
+
+.heading button {
+    float: right;
+    border: 3px solid white;
+}
+
+.heading h1 {
+    display: inline;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.modal-dialog {
+    width: 90%;
+    font-size: 20px;
+}
